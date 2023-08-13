@@ -1,0 +1,29 @@
+{
+  "name": "create-luma-app",
+  "version": "1.0.0",
+  "description": "Create a basic luma-js app with one command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/V01D-NULL/create-luma-app.git"
+  },
+  "author": "V01D-NULL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/V01D-NULL/create-luma-app/issues"
+  },
+  "homepage": "https://github.com/V01D-NULL/create-luma-app#readme",
+  "bin": {
+    "create-luma-app": "index.js"
+  },
+  "keywords": [],
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "esbuild": "^0.19.1",
+    "live-server": "^1.2.2",
+    "luma-js": "^1.0.5"
+  }
+}
