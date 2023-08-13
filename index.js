@@ -28,7 +28,7 @@ createDirectory("dist");
 // 2. Create the files
 createFile(
   path.join("src", "App.jsx"),
-  `import { LumaJS } from 'luma-js';
+  `import LumaJS from 'luma-js';
 
 function App() {
 	return (

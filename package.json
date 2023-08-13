@@ -1,6 +1,6 @@
 {
-  "name": "create-luma-app",
-  "version": "1.0.0",
+  "name": "create-lumajs-app",
+  "version": "1.0.1",
   "description": "Create a basic luma-js app with one command",
   "main": "index.js",
   "scripts": {
